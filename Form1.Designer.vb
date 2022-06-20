@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class contactTracingViewerVB
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,12 +20,11 @@ Partial Class contactTracingViewerVB
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.showFilesBtn = New System.Windows.Forms.Button()
         Me.filesListBox = New System.Windows.Forms.ListBox()
         Me.contentTextBox = New System.Windows.Forms.RichTextBox()
-        Me.exitBtn = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'showFilesBtn
@@ -33,7 +32,7 @@ Partial Class contactTracingViewerVB
         Me.showFilesBtn.Font = New System.Drawing.Font("Georgia", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.showFilesBtn.Location = New System.Drawing.Point(340, 373)
         Me.showFilesBtn.Name = "showFilesBtn"
-        Me.showFilesBtn.Size = New System.Drawing.Size(310, 51)
+        Me.showFilesBtn.Size = New System.Drawing.Size(392, 51)
         Me.showFilesBtn.TabIndex = 0
         Me.showFilesBtn.Text = "Show Files"
         Me.showFilesBtn.UseVisualStyleBackColor = True
@@ -57,23 +56,12 @@ Partial Class contactTracingViewerVB
         Me.contentTextBox.TabIndex = 3
         Me.contentTextBox.Text = ""
         '
-        'exitBtn
-        '
-        Me.exitBtn.Font = New System.Drawing.Font("Georgia", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.exitBtn.Location = New System.Drawing.Point(340, 430)
-        Me.exitBtn.Name = "exitBtn"
-        Me.exitBtn.Size = New System.Drawing.Size(310, 51)
-        Me.exitBtn.TabIndex = 4
-        Me.exitBtn.Text = "Exit"
-        Me.exitBtn.UseVisualStyleBackColor = True
-        '
         'contactTracingViewerVB
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(744, 513)
-        Me.Controls.Add(Me.exitBtn)
         Me.Controls.Add(Me.contentTextBox)
         Me.Controls.Add(Me.filesListBox)
         Me.Controls.Add(Me.showFilesBtn)
@@ -86,5 +74,4 @@ Partial Class contactTracingViewerVB
     Friend WithEvents showFilesBtn As Button
     Friend WithEvents filesListBox As ListBox
     Friend WithEvents contentTextBox As RichTextBox
-    Friend WithEvents exitBtn As Button
 End Class
