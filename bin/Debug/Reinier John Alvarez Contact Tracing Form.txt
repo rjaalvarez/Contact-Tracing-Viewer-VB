@@ -1,0 +1,26 @@
+﻿CONTACT TRACING FORM
+ 
+First Name: Reinier John
+Middle Name: Alon
+Last Name: Alvarez
+Age: 29
+Gender: Male
+Contact Number: 123-5544
+Address: Bulacan
+Email Address: rj.a@gmail.com
+Date: Sunday, June 5, 2022
+Time: 4:57:14 PM
+Location: San Jose del Monte, Bulacan
+ 
+Health Condition Checklist
+ 
+Loss of Smell or Taste: No
+Fever: No
+Cough: No
+Sore Throat: No
+Chills: No
+2. Have you traveled outside the Philippines anytime from December 2019 until now? No
+3. Have you, or anyone you have been in close contact with been diagnosed with COVID-19, 
+or been placed on quarantine for possible contact with COVID-19? No
+ 
+If you reply YES to any of the questions in the checklist, stay home and contact a health care provider for guidance and assistance.

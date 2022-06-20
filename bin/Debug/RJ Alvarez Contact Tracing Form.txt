@@ -1,0 +1,26 @@
+﻿CONTACT TRACING FORM
+ 
+First Name: RJ
+Middle Name: Alonn
+Last Name: Alvarez
+Age: 23
+Gender: Male
+Contact Number: 0932-123-4567
+Address: Bulacan
+Email Address: rj.alonalv123@gmail.com
+Date: Monday, June 20, 2022
+Time: 2:12:40 PM
+Location: San Jose del Monte, Bulacan
+ 
+Health Condition Checklist
+ 
+Loss of Smell or Taste: No
+Fever: No
+Cough: No
+Sore Throat: No
+Chills: No
+2. Have you traveled outside the Philippines anytime from December 2019 until now? No
+3. Have you, or anyone you have been in close contact with been diagnosed with COVID-19, 
+or been placed on quarantine for possible contact with COVID-19? No
+ 
+If you reply YES to any of the questions in the checklist, stay home and contact a health care provider for guidance and assistance.

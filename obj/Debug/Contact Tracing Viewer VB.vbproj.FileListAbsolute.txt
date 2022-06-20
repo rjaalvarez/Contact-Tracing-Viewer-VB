@@ -1,0 +1,12 @@
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\bin\Debug\Contact Tracing Viewer VB.exe.config
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\bin\Debug\Contact Tracing Viewer VB.exe
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\bin\Debug\Contact Tracing Viewer VB.pdb
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\bin\Debug\Contact Tracing Viewer VB.xml
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.vbproj.AssemblyReference.cache
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact_Tracing_Viewer_VB.contactTracingViewerVB.resources
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact_Tracing_Viewer_VB.Resources.resources
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.vbproj.GenerateResource.cache
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.vbproj.CoreCompileInputs.cache
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.exe
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.xml
+C:\Users\RJ\source\repos\Contact Tracing Viewer VB\obj\Debug\Contact Tracing Viewer VB.pdb
