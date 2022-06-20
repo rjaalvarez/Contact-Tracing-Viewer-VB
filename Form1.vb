@@ -16,4 +16,8 @@ Public Class contactTracingViewerVB
         End If
 
     End Sub
+
+    Private Sub exitBtn_Click(sender As Object, e As EventArgs) Handles exitBtn.Click
+        Application.Exit()
+    End Sub
 End Class

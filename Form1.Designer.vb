@@ -25,6 +25,7 @@ Partial Class contactTracingViewerVB
         Me.showFilesBtn = New System.Windows.Forms.Button()
         Me.filesListBox = New System.Windows.Forms.ListBox()
         Me.contentTextBox = New System.Windows.Forms.RichTextBox()
+        Me.exitBtn = New System.Windows.Forms.Button()
         Me.SuspendLayout()
         '
         'showFilesBtn
@@ -44,7 +45,7 @@ Partial Class contactTracingViewerVB
         Me.filesListBox.ItemHeight = 16
         Me.filesListBox.Location = New System.Drawing.Point(12, 12)
         Me.filesListBox.Name = "filesListBox"
-        Me.filesListBox.Size = New System.Drawing.Size(307, 484)
+        Me.filesListBox.Size = New System.Drawing.Size(322, 468)
         Me.filesListBox.TabIndex = 1
         '
         'contentTextBox
@@ -56,12 +57,23 @@ Partial Class contactTracingViewerVB
         Me.contentTextBox.TabIndex = 3
         Me.contentTextBox.Text = ""
         '
+        'exitBtn
+        '
+        Me.exitBtn.Font = New System.Drawing.Font("Georgia", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.exitBtn.Location = New System.Drawing.Point(340, 430)
+        Me.exitBtn.Name = "exitBtn"
+        Me.exitBtn.Size = New System.Drawing.Size(392, 51)
+        Me.exitBtn.TabIndex = 4
+        Me.exitBtn.Text = "Exit"
+        Me.exitBtn.UseVisualStyleBackColor = True
+        '
         'contactTracingViewerVB
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(744, 513)
+        Me.Controls.Add(Me.exitBtn)
         Me.Controls.Add(Me.contentTextBox)
         Me.Controls.Add(Me.filesListBox)
         Me.Controls.Add(Me.showFilesBtn)
@@ -74,4 +86,5 @@ Partial Class contactTracingViewerVB
     Friend WithEvents showFilesBtn As Button
     Friend WithEvents filesListBox As ListBox
     Friend WithEvents contentTextBox As RichTextBox
+    Friend WithEvents exitBtn As Button
 End Class
