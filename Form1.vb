@@ -8,4 +8,12 @@ Public Class contactTracingViewerVB
         Next
 
     End Sub
+
+    Private Sub filesListBox_SelectedIndexChanged(sender As Object, e As EventArgs) Handles filesListBox.SelectedIndexChanged
+        If filesListBox.SelectedIndex > -1 Then
+            Dim filename As String = filesListBox.SelectedItem.ToString()
+            contentTextBox.Lines = File.ReadAllLines(filename)
+        End If
+
+    End Sub
 End Class
