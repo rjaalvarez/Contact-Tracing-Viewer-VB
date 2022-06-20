@@ -72,11 +72,14 @@ Partial Class contactTracingViewerVB
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(255, Byte), Integer), CType(CType(192, Byte), Integer), CType(CType(128, Byte), Integer))
-        Me.ClientSize = New System.Drawing.Size(744, 513)
+        Me.ClientSize = New System.Drawing.Size(744, 492)
         Me.Controls.Add(Me.exitBtn)
         Me.Controls.Add(Me.contentTextBox)
         Me.Controls.Add(Me.filesListBox)
         Me.Controls.Add(Me.showFilesBtn)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D
+        Me.MaximizeBox = False
+        Me.MinimizeBox = False
         Me.Name = "contactTracingViewerVB"
         Me.Text = "Contact Tracing Viewer VB"
         Me.ResumeLayout(False)
